@@ -1,0 +1,23 @@
+{
+  "name": "thunderhead",
+  "version": "0.0.0",
+  "description": "Highly energetic CloudFormation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:highbar/thunderhead"
+  },
+  "keywords": [
+    "CloudFormation",
+    "AWS",
+    "CLI",
+    "SDK",
+    "Helper",
+    "Utility"
+  ],
+  "author": "John Batte",
+  "license": "MIT"
+}
